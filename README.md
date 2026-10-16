@@ -4,6 +4,12 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Papers](https://img.shields.io/badge/Papers-205-blue) ![Last Commit](https://img.shields.io/github/last-commit/dinggd/awesome-procedural-activity-understanding?label=Last%20Updated&color=green) [![Stars](https://img.shields.io/github/stars/dinggd/awesome-procedural-activity-understanding?style=social)](https://github.com/dinggd/awesome-procedural-activity-understanding/stargazers) [![Survey](https://img.shields.io/badge/Survey-submitted%20to%20TPAMI-b31b1b)](#) ![License](https://img.shields.io/badge/License-CC0-lightgrey)
 
+## Paper
+
+<p align="center"><a href="assets/ding2026pau.pdf"><img src="assets/paper_preview.png" width="95%" alt="Preview of the survey"></a></p>
+
+<p align="center">📄 <a href="assets/ding2026pau.pdf">Read the survey (PDF)</a></p>
+
 **A curated list of papers, datasets, and benchmarks on procedural activity understanding (PAU)**, accompanying our survey *Procedural Activity Understanding in Videos: An Execution-Centric View*. Papers are organized by the survey's taxonomy, and section numbers (§) follow the paper.
 
 🟢 = covered in the survey &nbsp;·&nbsp; 🆕 = added after the survey
